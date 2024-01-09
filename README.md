@@ -1,1 +1,1 @@
-# LRD-Sensor-
+# LDR-Sensor-
